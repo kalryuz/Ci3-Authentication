@@ -1,1 +1,1 @@
-<h1>Authentication codeigniter 3</h1>
+<h1>Authentication Codeigniter 3</h1>
